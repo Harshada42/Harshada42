@@ -4,7 +4,7 @@
 
 **M.Tech in Computer Science & Engineering Specialization in Cybersecurity**
 
-I am a post-graduate with a strong foundation in core computer science, actively seeking my first professional role. I am passionate about the intersection of cloud infrastructure and security, and I love bridging the gap between theoretical knowledge and practical application through hands-on engineering projects.
+I am a post-graduate with a strong foundation in core computer science, actively seeking my first professional role. I am passionate about cloud infrastructure, security and networking, and I love bridging the gap between theoretical knowledge and practical application through hands-on engineering projects.
 
 ### 🔐 About Me
 * 🎓 M.Tech Graduate in Computer Science and Engineering specializing in **Cybersecurity**.
