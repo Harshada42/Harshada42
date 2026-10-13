@@ -44,14 +44,6 @@ Actively seeking entry-level roles and internships across **Cybersecurity (SOC /
 
 ---
 
-### 📊 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshada's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
