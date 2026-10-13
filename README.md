@@ -44,10 +44,11 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Scripting** | Python, Java, SQL, Bash / Shell Scripting |
-| **Security & Threat Detection** | Packet & Protocol Analysis (Wireshark, Nmap), SOC Incident Triage, Threat Modeling, Log Analysis, Digital Forensics |
-| **Data & Pipeline Engineering** | PySpark, Delta Lake, Pandas, Scikit-Learn, Isolation Forest Anomaly Scoring, MySQL, SQLite |
-| **Cloud, DevOps & Systems** | AWS, Docker, Kubernetes, Linux Internals, Grafana Monitoring |
+| **Languages & Scripting** | Python, SQL, Bash / Shell Scripting |
+| **Security & Threat Detection** | SOC Incident Triage, Threat Modeling, Log Analysis, Digital Forensics |
+| **Data & Pipeline Engineering** | PySpark, Databricks, Delta Lake, ETL Pipelines, Snowflake |
+| **Cloud** | AWS, IAM |
+| **DevOps & Tools** | Docker, Kubernetes, Jenkins, Linux, Grafana |
 
 ---
 
@@ -68,7 +69,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true" alt="Harshada's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,java,javascript" alt="Top Languages" />
 </p>
 
 
