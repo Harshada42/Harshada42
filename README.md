@@ -52,7 +52,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 ### 🔬 Featured Engineering Projects
 
-| Project | Focus & Architecture | Tech Stack |
+| Project | Tech Stack | TryhackMe Simulation
 | :--- | :--- | :--- |
 | **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | End-to-end telemetry ingestion pipeline parsing raw network traffic to extract anomalous security event indicators. | PySpark, Delta Lake, Python |
 | **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify intrusion vectors. | Python, Scikit-Learn, ML/DL |
@@ -63,11 +63,12 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Harshada's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity & Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true" alt="Harshada's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+</p>
 
 
 
