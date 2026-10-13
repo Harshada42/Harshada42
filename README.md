@@ -1,4 +1,3 @@
-
 # Harshada Aghav
 
 <p align="left">
@@ -6,8 +5,6 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Harshada42/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Submissions-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Submissions" /></a>
 </p>
 
@@ -15,7 +12,7 @@
 
 ### 💼 Professional Summary
 
-Cybersecurity and software engineer with strong foundations in systems programming, operating system internals, and threat analytics. Experienced in building automated data processing pipelines, behavioral anomaly detection engines, and network simulators. 
+Cybersecurity and software engineer with strong foundations in systems programming, operating system internals, and threat analytics. Experienced in building automated data processing pipelines, behavioral anomaly detection engines, and network simulators.
 
 - **Target Roles:** Security Engineering (Threat Detection / SecOps), Cloud & Backend Engineering, Data Engineering.
 - **Key Competencies:** Large-scale log ingestion, behavioral intrusion detection, protocol analysis, and algorithmic problem-solving.
@@ -46,7 +43,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages & Scripting** | Python, SQL, Bash / Shell Scripting |
+| **Languages & Scripting** | Python, Java, SQL, Bash / Shell Scripting |
 | **Security & Threat Detection** | Packet & Protocol Analysis (Wireshark, Nmap), SOC Incident Triage, Threat Modeling, Log Analysis |
 | **Data & Pipeline Engineering** | PySpark, Delta Lake, Pandas, Scikit-Learn, Isolation Forest Anomaly Scoring, MySQL, SQLite |
 | **Cloud, DevOps & Systems** | AWS, Docker, Kubernetes, Linux Internals, Grafana Monitoring |
@@ -70,6 +67,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
   <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Harshada's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 
