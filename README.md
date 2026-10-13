@@ -45,9 +45,6 @@ Actively seeking entry-level roles and internships across **Cybersecurity (SOC /
 ---
 
 
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 
 
