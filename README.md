@@ -65,12 +65,21 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 ---
 
-### 📊 GitHub Activity & Languages
+### 📊 GitHub Activity & Hands-on Implementation
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshada42&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true" alt="Harshada's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada42&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,java,javascript" alt="Top Languages" />
 </p>
+
+#### 🛠️ Applied Skills & Scenario Implementations
+
+| Focus Area | Engineering Projects & TryHackMe Simulations | Practical Skills Applied |
+| :--- | :--- | :--- |
+| **Threat Hunting & Incident Response** | *Operation Health Hazard* (THM)<br>*SOC Phishing Triage* | Windows Event Logs, Sysmon telemetry, Registry persistence analysis, PowerShell payload deobfuscation, IOC extraction, Email header decoding |
+| **Pipeline & Telemetry Ingestion** | *AI-Driven Threat Pipeline* | PySpark, Delta Lake architecture, batch/streaming log ingestion, schema validation, distributed data processing |
+| **Anomaly Detection & IDS** | *Network Anomaly Detection*<br>*Transaction Risk Engine* | Scikit-Learn, Isolation Forest, feature engineering on NSL-KDD, unsupervised outlier scoring, threshold tuning |
+| **Protocols & Systems Modeling** | *Packet Routing Simulator* | TCP/IP, UDP, ICMP packet lifecycle, routing tables, TTL handling, socket mechanics, Java Swing |
+| **Algorithmic Problem Solving** | *NeetCode 150 Tracker* | Time/space complexity optimization ($O(N)$, $O(\log N)$), monotonic stacks, sliding window, tree/graph traversals in Python |
 
 
 
