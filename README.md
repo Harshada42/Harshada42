@@ -1,3 +1,4 @@
+ 
 # Harshada Aghav
 
 <p align="left">
@@ -44,24 +45,24 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages & Scripting** | Python, Java, SQL, Bash / Shell Scripting |
-| **Security & Threat Detection** | Packet & Protocol Analysis (Wireshark, Nmap), SOC Incident Triage, Threat Modeling, Log Analysis |
+| **Security & Threat Detection** | Packet & Protocol Analysis (Wireshark, Nmap), SOC Incident Triage, Threat Modeling, Log Analysis, Digital Forensics |
 | **Data & Pipeline Engineering** | PySpark, Delta Lake, Pandas, Scikit-Learn, Isolation Forest Anomaly Scoring, MySQL, SQLite |
 | **Cloud, DevOps & Systems** | AWS, Docker, Kubernetes, Linux Internals, Grafana Monitoring |
 
 ---
 
-### 🔬 Featured Engineering Projects
+### 🔬 Featured Engineering Projects & Security Investigations
 
-| Project | Tech Stack | TryhackMe Simulation
+| Project / Investigation | Focus & Architecture | Tech Stack / Tooling |
 | :--- | :--- | :--- |
-| **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | End-to-end telemetry ingestion pipeline parsing raw network traffic to extract anomalous security event indicators. | PySpark, Delta Lake, Python |
-| **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify intrusion vectors. | Python, Scikit-Learn, ML/DL |
-| **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative data validation pipeline with automated quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
-| **[Network Packet Simulator](https://github.com/Harshada42/network-packet-routing-simulator-javaswing)** | Desktop network engine visualizing routing topologies, hop counts, TTL handling, and TCP/UDP/ICMP behavior. | Java, Swing, Networking Protocols |
+| **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Sysmon, PowerShell |
+| **[SOC Alert Triage & Phishing Investigation](https://github.com/Harshada42/soc-alert-triage-phishing-investigation)** | Tier-1/Tier-2 SOC triage workflow covering email header decoding, malicious payload artifact extraction, and IOC containment. | Phishing Analysis, Email Headers, VirusTotal, Threat Intel |
+| **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
+| **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
+| **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative transaction validation engine integrating automated data quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
+| **[Network Packet Routing Simulator](https://github.com/Harshada42/network-packet-routing-simulator-javaswing)** | Desktop network engine visualizing routing topologies, hop counts, TTL handling, and TCP/UDP/ICMP behavior. | Java, Swing, Networking Protocols |
 
 ---
-
-### 📊 GitHub Activity & Metrics
 
 ### 📊 GitHub Activity & Languages
 
