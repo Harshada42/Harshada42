@@ -56,7 +56,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 | Project / Investigation | Focus & Architecture | Tech Stack / Tooling |
 | :--- | :--- | :--- |
-| **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Sysmon, PowerShell |
+| **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Splunk|
 | **[SOC Alert Triage & Phishing Investigation](https://github.com/Harshada42/soc-alert-triage-phishing-investigation)** | Tier-1/Tier-2 SOC triage workflow covering email header decoding, malicious payload artifact extraction, and IOC containment. | Phishing Analysis, Email Headers, VirusTotal, Threat Intel |
 | **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
 | **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
