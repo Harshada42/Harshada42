@@ -20,6 +20,29 @@ Cybersecurity and software engineer with strong foundations in systems programmi
 
 ---
 
+### 🛠️ Technical Toolkit
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages & Scripting** | Python, SQL, Bash / Shell Scripting |
+| **Security & Threat Detection** | SOC Incident Triage, Threat Modeling, Log Analysis, Digital Forensics |
+| **Data & Pipeline Engineering** | PySpark, Databricks, Delta Lake, ETL Pipelines, Snowflake |
+| **Cloud** | AWS, IAM |
+| **DevOps & Tools** | Docker, Kubernetes, Jenkins, Linux, Grafana |
+
+---
+### 🔬 Featured Engineering Projects & Security Investigations (TryHackMe)
+
+| Project / Investigation | Focus & Architecture | Tech Stack / Tooling |
+| :--- | :--- | :--- |
+| **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Splunk|
+| **[SOC Alert Triage & Phishing Investigation](https://github.com/Harshada42/soc-alert-triage-phishing-investigation)** | Tier-1/Tier-2 SOC triage workflow covering email header decoding, malicious payload artifact extraction, and IOC containment. | Phishing Analysis, Email Headers, VirusTotal, Threat Intel |
+| **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
+| **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
+| **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative transaction validation engine integrating automated data quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
+| **[Network Packet Routing Simulator](https://github.com/Harshada42/network-packet-routing-simulator-javaswing)** | Desktop network engine visualizing routing topologies, hop counts, TTL handling, and TCP/UDP/ICMP behavior. | Java, Swing, Networking Protocols |
+
+---
 ### 🧠 Algorithmic Problem Solving & DSA
 
 Consistent problem-solving across core patterns, data structures, and algorithmic complexity:
@@ -37,31 +60,6 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 
 > 📁 **Explore all tracked solutions, complexity writeups, and daily submissions:**  
 > 👉 [**Harshada42/neetcode-submissions**](https://github.com/Harshada42/neetcode-submissions)
-
----
-
-### 🛠️ Technical Toolkit
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages & Scripting** | Python, SQL, Bash / Shell Scripting |
-| **Security & Threat Detection** | SOC Incident Triage, Threat Modeling, Log Analysis, Digital Forensics |
-| **Data & Pipeline Engineering** | PySpark, Databricks, Delta Lake, ETL Pipelines, Snowflake |
-| **Cloud** | AWS, IAM |
-| **DevOps & Tools** | Docker, Kubernetes, Jenkins, Linux, Grafana |
-
----
-
-### 🔬 Featured Engineering Projects & Security Investigations
-
-| Project / Investigation | Focus & Architecture | Tech Stack / Tooling |
-| :--- | :--- | :--- |
-| **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Splunk|
-| **[SOC Alert Triage & Phishing Investigation](https://github.com/Harshada42/soc-alert-triage-phishing-investigation)** | Tier-1/Tier-2 SOC triage workflow covering email header decoding, malicious payload artifact extraction, and IOC containment. | Phishing Analysis, Email Headers, VirusTotal, Threat Intel |
-| **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
-| **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
-| **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative transaction validation engine integrating automated data quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
-| **[Network Packet Routing Simulator](https://github.com/Harshada42/network-packet-routing-simulator-javaswing)** | Desktop network engine visualizing routing topologies, hop counts, TTL handling, and TCP/UDP/ICMP behavior. | Java, Swing, Networking Protocols |
 
 ---
 
