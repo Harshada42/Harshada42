@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://ieeexplore.ieee.org/document/11336792"><img src="https://img.shields.io/badge/IEEE_Xplore-Research_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
+  <a href="https://ieeexplore.ieee.org/document/11336792"><img src="https://img.shields.io/badge/IEEE_Xplore-First_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication - First Author" /></a>
   <a href="https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard"><img src="https://img.shields.io/badge/THM-Operation_Health_Hazard-critical?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Operation Health Hazard" /></a>
   <a href="https://github.com/Harshada42/soc-alert-triage-phishing-investigation"><img src="https://img.shields.io/badge/THM-SOC_Phishing_Triage-2ea44f?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SOC Phishing Triage" /></a>
   <a href="https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection"><img src="https://img.shields.io/badge/Pipeline-AI_Threat_Detection-0A66C2?style=for-the-badge&logo=apachespark&logoColor=white" alt="AI Threat Detection Pipeline" /></a>
@@ -51,9 +51,9 @@ Cybersecurity and software engineer with strong foundations in systems programmi
 
 ### 📄 Research & Publications
 
-| Publication | Publisher & Indexing | Direct Access |
+| Publication & Focus | Venue & DOI | Role & Access |
 | :--- | :--- | :--- |
-| **Research Paper** *(Replace with Paper Title)*<br>M.Tech Thesis / Applied Cybersecurity Research | **IEEE Xplore Digital Library**<br>Document ID: `11336792` | [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Document-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11336792) |
+| **Machine Learning and Deep Learning for Network Anomaly Detection**<br>*Applied Cybersecurity Research & Intrusion Detection* | **IEEE Xplore Digital Library**<br>Published: 21 January 2026<br>DOI: `10.1109/ICFT66708.2025.11336792` | ![Lead Author](https://img.shields.io/badge/Role-First_Author-success?style=flat-square)<br><br>[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Document-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11336792) |
 
 
 ---
