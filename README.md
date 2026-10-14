@@ -37,10 +37,11 @@ Cybersecurity and software engineer with strong foundations in systems programmi
 | :--- | :--- | :--- |
 | **[Operation Health Hazard: Threat Hunting](https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard)** | Structured incident response analyzing a trojanized npm package compromise, registry autostart persistence, and PowerShell execution logs. | Threat Hunting, Windows Event Logs, Splunk|
 | **[SOC Alert Triage & Phishing Investigation](https://github.com/Harshada42/soc-alert-triage-phishing-investigation)** | Tier-1/Tier-2 SOC triage workflow covering email header decoding, malicious payload artifact extraction, and IOC containment. | Phishing Analysis, Email Headers, VirusTotal, Threat Intel |
+| **[Quantitative Data Quality & Risk Analytics](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative data validation and risk engine integrating relational MySQL ingestion, automated quality scoring, and Isolation Forest anomaly detection. | Python, Pandas, MySQL, Isolation Forest, OpenPyXL |
 | **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
 | **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
 | **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative transaction validation engine integrating automated data quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
-| **[Network Packet Routing Simulator](https://github.com/Harshada42/network-packet-routing-simulator-javaswing)** | Desktop network engine visualizing routing topologies, hop counts, TTL handling, and TCP/UDP/ICMP behavior. | Java, Swing, Networking Protocols |
+
 
 ---
 ### 🧠 Algorithmic Problem Solving & DSA
@@ -75,6 +76,7 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 | :--- | :--- | :--- |
 | **Threat Hunting & Incident Response** | *Operation Health Hazard* (THM)<br>*SOC Phishing Triage* | Windows Event Logs, Sysmon telemetry, Registry persistence analysis, PowerShell payload deobfuscation, IOC extraction, Email header decoding |
 | **Pipeline & Telemetry Ingestion** | *AI-Driven Threat Pipeline* | PySpark, Delta Lake architecture, batch/streaming log ingestion, schema validation, distributed data processing |
+|**Quantitative Data Quality & Risk** | *Quantitative Risk Analytics Engine* | Automated tabular data quality audits, MySQL relational queries, Isolation Forest unsupervised | anomaly scoring, OpenPyXL report generation |
 | **Anomaly Detection & IDS** | *Network Anomaly Detection*<br>*Transaction Risk Engine* | Scikit-Learn, Isolation Forest, feature engineering on NSL-KDD, unsupervised outlier scoring, threshold tuning |
 | **Protocols & Systems Modeling** | *Packet Routing Simulator* | TCP/IP, UDP, ICMP packet lifecycle, routing tables, TTL handling, socket mechanics, Java Swing |
 | **Algorithmic Problem Solving** | *NeetCode 150 Tracker* | Time/space complexity optimization ($O(N)$, $O(\log N)$), monotonic stacks, sliding window, tree/graph traversals in Python |
