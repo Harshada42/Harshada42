@@ -1,14 +1,17 @@
  
 # Harshada Aghav
 
-**Cybersecurity & Backend Systems Engineer** | M.Tech in Computer Science & Engineering (Cybersecurity)
+<p align="left">
+  <strong>Cybersecurity & Backend Systems Engineer</strong> | M.Tech in Computer Science & Engineering (Cybersecurity)
+</p>
 
 <p align="left">
+  <a href="https://ieeexplore.ieee.org/document/11336792"><img src="https://img.shields.io/badge/IEEE_Xplore-Research_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
+  <a href="https://github.com/Harshada42/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Submissions-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Submissions" /></a>
   <a href="https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard"><img src="https://img.shields.io/badge/THM-Operation_Health_Hazard-critical?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Operation Health Hazard" /></a>
   <a href="https://github.com/Harshada42/soc-alert-triage-phishing-investigation"><img src="https://img.shields.io/badge/THM-SOC_Phishing_Triage-2ea44f?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SOC Phishing Triage" /></a>
   <a href="https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection"><img src="https://img.shields.io/badge/Pipeline-AI_Threat_Detection-0A66C2?style=for-the-badge&logo=apachespark&logoColor=white" alt="AI Threat Detection Pipeline" /></a>
   <a href="https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models"><img src="https://img.shields.io/badge/IDS-Network_Anomaly_Detection-6f42c1?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Network Anomaly Detection" /></a>
-  <a href="https://github.com/Harshada42/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Submissions-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Submissions" /></a>
 </p>
 
 ---
