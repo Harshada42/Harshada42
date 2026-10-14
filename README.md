@@ -78,7 +78,6 @@ Consistent problem-solving across core patterns, data structures, and algorithmi
 | **Pipeline & Telemetry Ingestion** | *AI-Driven Threat Pipeline* | PySpark, Delta Lake architecture, batch/streaming log ingestion, schema validation, distributed data processing |
 |**Quantitative Data Quality & Risk** | *Quantitative Risk Analytics Engine* | Automated tabular data quality audits, MySQL relational queries, Isolation Forest unsupervised | anomaly scoring, OpenPyXL report generation |
 | **Anomaly Detection & IDS** | *Network Anomaly Detection*<br>*Transaction Risk Engine* | Scikit-Learn, Isolation Forest, feature engineering on NSL-KDD, unsupervised outlier scoring, threshold tuning |
-| **Protocols & Systems Modeling** | *Packet Routing Simulator* | TCP/IP, UDP, ICMP packet lifecycle, routing tables, TTL handling, socket mechanics, Java Swing |
 | **Algorithmic Problem Solving** | *NeetCode 150 Tracker* | Time/space complexity optimization ($O(N)$, $O(\log N)$), monotonic stacks, sliding window, tree/graph traversals in Python |
 
 
