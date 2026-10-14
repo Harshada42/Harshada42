@@ -7,11 +7,11 @@
 
 <p align="left">
   <a href="https://ieeexplore.ieee.org/document/11336792"><img src="https://img.shields.io/badge/IEEE_Xplore-Research_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Publication" /></a>
-  <a href="https://github.com/Harshada42/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Submissions-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Submissions" /></a>
   <a href="https://github.com/Harshada42/Threat-Hunting-Investigation-Operation-Health-Hazard"><img src="https://img.shields.io/badge/THM-Operation_Health_Hazard-critical?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Operation Health Hazard" /></a>
   <a href="https://github.com/Harshada42/soc-alert-triage-phishing-investigation"><img src="https://img.shields.io/badge/THM-SOC_Phishing_Triage-2ea44f?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SOC Phishing Triage" /></a>
   <a href="https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection"><img src="https://img.shields.io/badge/Pipeline-AI_Threat_Detection-0A66C2?style=for-the-badge&logo=apachespark&logoColor=white" alt="AI Threat Detection Pipeline" /></a>
   <a href="https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models"><img src="https://img.shields.io/badge/IDS-Network_Anomaly_Detection-6f42c1?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Network Anomaly Detection" /></a>
+   <a href="https://github.com/Harshada42/neetcode-submissions"><img src="https://img.shields.io/badge/NeetCode-Submissions-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Submissions" /></a>
 </p>
 
 ---
@@ -46,6 +46,14 @@ Cybersecurity and software engineer with strong foundations in systems programmi
 | **[AI-Driven Threat Pipeline](https://github.com/Harshada42/AI-Driven-Data-Pipeline-for-Threat-Detection)** | Scalable telemetry ingestion pipeline parsing raw network traffic to extract anomalous security indicators. | PySpark, Delta Lake, Python |
 | **[Network Anomaly Detection IDS](https://github.com/Harshada42/Network-Anomaly-Detection-Using-Machine-Learning-and-Deep-Learning-Models)** | Evaluated ML and Deep Learning architectures on the NSL-KDD dataset to classify network intrusion vectors. | Python, Scikit-Learn, ML/DL |
 | **[Transaction Risk Analytics Engine](https://github.com/Harshada42/Quantitative-Data-Quality-Risk-Analytics-)** | Quantitative transaction validation engine integrating automated data quality scoring and unsupervised anomaly detection. | Python, Pandas, Isolation Forest |
+
+---
+
+### 📄 Research & Publications
+
+| Publication | Publisher & Indexing | Direct Access |
+| :--- | :--- | :--- |
+| **Research Paper** *(Replace with Paper Title)*<br>M.Tech Thesis / Applied Cybersecurity Research | **IEEE Xplore Digital Library**<br>Document ID: `11336792` | [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Document-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11336792) |
 
 
 ---
